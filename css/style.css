@@ -46,3 +46,23 @@
     display: flex;
     justify-content:space-around;
 }
+
+.mainPortfolio{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.cardItem{
+    display: flex;
+    justify-content: center;
+}
+
+.cardPortfolio{
+    margin: 10px;
+}
+
+.cardPortfolio img{
+    width: 250px;
+    
+}
