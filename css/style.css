@@ -26,5 +26,9 @@
 }
 
 .service{
-    
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 50px;
+    text-align: center;
 }
