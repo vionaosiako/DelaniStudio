@@ -74,6 +74,19 @@
     padding: 30px;
 }
 
+.contactUsForm{
+    display: flex;
+    justify-content: center;
+
+}
+.inputColor ::placeholder{
+    color: #ffffff;
+    opacity: 1; 
+}
+.inputColor{
+    background-color: transparent;
+}
+
 footer{
     padding: 10px;
     display: flex;
