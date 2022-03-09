@@ -79,16 +79,21 @@
     justify-content: center;
 
 }
-.inputColor ::placeholder{
+/* .inputColor ::placeholder{
     color: #ffffff;
     opacity: 1; 
-}
+} */
 .inputColor{
     background-color: transparent;
 }
 
-footer{
+.socialMedia{
     padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.insideFooter{
     display: flex;
     justify-content: center;
 }
