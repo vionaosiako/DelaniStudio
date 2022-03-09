@@ -1,20 +1,29 @@
 $(document).ready(function(){
     $("#designMain").click(function(){
-      $(".designImg").hide();
+      // $(".designImg").hide();
       $("#design").toggle();
+      $(".designImg").toggle();
+      
     });
 });
 
 $(document).ready(function(){
   $("#developmentMain").click(function(){
-    $(".developmentImg").hide();
-    $("#development").show();
+    $(".developmentImg").toggle();
+    $("#development").toggle();
   });
 });
 
 $(document).ready(function(){
   $("#productionMain").click(function(){
-    $(".productionImg").hide();
-    $("#production").show();
+    $(".productionImg").toggle();
+    $("#production").toggle();
   });
 });
+
+$(document).ready(function(){
+  $("").hover(function(){
+    
+  })
+
+})
