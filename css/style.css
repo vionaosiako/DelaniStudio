@@ -46,6 +46,12 @@
     display: flex;
     justify-content:space-around;
 }
+.cool{
+    width: 400px;
+}
+.childInsideWhatWeDo{
+    display: none;
+}
 
 .mainPortfolio{
     text-align: center;
