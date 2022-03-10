@@ -72,6 +72,32 @@
     width: 250px;
     
 }
+
+.insidePortfolio{
+    display: none;
+    width: 250px;
+    border-style: solid #ffffff;
+    background-color: transparent;
+}
+
+.work{
+    position: relative;
+}
+
+.hoverLayoutWork{
+    position: absolute;
+    margin: 10px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #ffffff;
+    font-size: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+}
+
 .contactUs{
     background-size: cover;
     background-repeat: no-repeat;
