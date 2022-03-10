@@ -10,7 +10,7 @@
 + [Authors Info](#author-Info)
 + [Git Hub](#Git-Hub)
 ## Description
-<p>It is a web application that help Delani studio to market themselve. The site displays there portfolio that help users see what they have done before. Clients can also contact them via the site.</p>
+<p>It is a web application that help Delani studio to market themselves. The site displays there portfolio that help users see what they have done before. Clients can also contact them via the site.</p>
 
 ## Requirements and set up
 * Internet connection.
