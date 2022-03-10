@@ -22,8 +22,3 @@ function formSubmit(){
         alert(name.value+" we have received your message. Thank you for reaching out to us.");        
     }
 }
-
-// function formSubmit(){
-//     validation();
-//     alert("Thank you for contacting us");
-// }
