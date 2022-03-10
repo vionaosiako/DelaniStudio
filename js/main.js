@@ -19,7 +19,7 @@ function formSubmit(){
     }
 
     else{
-        alert("Thank you for contacting us");        
+        alert(name.value+" we have received your message. Thank you for reaching out to us.");        
     }
 }
 
