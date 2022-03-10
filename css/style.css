@@ -129,3 +129,15 @@
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width:1000px){
+    .insideWhatWeDo{
+        flex-wrap: wrap;
+    }        
+}
+
+@media screen and (max-width:1080px){
+    .cardItem{
+        flex-wrap: wrap;
+    }        
+}
